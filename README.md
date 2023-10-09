@@ -1,6 +1,13 @@
 # moprog1
 
-A new Flutter project.
+Project UTS
+
+Kelompok 10 :
+
+Aurey Natathania / 825210101
+Monica Glory / 825210102
+TIfani Anasya Putri / 825210113
+Meili Christabel / 825210143
 
 ## Getting Started
 
